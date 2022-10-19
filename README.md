@@ -2,9 +2,9 @@
 
 <h2> Introduction </h2>
 
-<h2>  DataViz </h2>
+<h2> DataViz </h2>
 
-<h2>  Shiny </h2>
+<h2> Shiny </h2>
 
 <h2> Experimental Desing </h2>
 
