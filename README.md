@@ -1,5 +1,4 @@
 # R and Statistics Sources
-
 ## Introduction
 
 ## DataViz
