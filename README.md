@@ -16,4 +16,8 @@ https://statswithr.github.io/book/
   
 https://epirhandbook.com/en/index.html
 
+<h2> Mathematics </h2>
+
+https://mml-book.github.io/
+
 <h2> XAI </h2>
