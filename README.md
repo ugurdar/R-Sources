@@ -8,6 +8,10 @@
 
 <h2> Experimental Desing </h2>
 
+<h2> Probability </h2>
+
+http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf
+
 <h2> Bayesian Statistics </h2>
   
 https://statswithr.github.io/book/
