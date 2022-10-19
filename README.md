@@ -1,14 +1,15 @@
 # R and Statistics Sources
-## Introduction
 
-## DataViz
+<h2> Introduction 
 
-## Shiny
+<h2>  DataViz
 
-## Experimental Desing
+<h2>  Shiny
 
-## Bayesian Statistics
+<h2> Experimental Desing
+
+<h2> Bayesian Statistics
 https://statswithr.github.io/book/
 
-## Biostatistics
+<h2> Biostatistics
 https://epirhandbook.com/en/index.html
